@@ -1,0 +1,27 @@
+.ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user-box {
+    list-style-type: none;
+    width: 200px;
+    margin: 50px 10px;
+}
+
+.user-email {
+    margin: 10px;
+}
+
+.user-name {
+    margin: 10px;
+}
+
+.user-phone {
+    margin: 10px;
+}
+
+.user-btn {
+    color:rgb(98, 192, 172);
+    padding: 10px;
+}
